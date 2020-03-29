@@ -1,7 +1,6 @@
 {
   "name": "rn-movie-list",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -28,6 +27,7 @@
     "rn-movie-list",
     "RNMovieList"
   ],
+  "license": "MIT",
   "jest": {
     "preset": "react-native"
   }
