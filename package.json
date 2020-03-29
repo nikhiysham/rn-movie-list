@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "rn-movie-list",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -24,6 +24,10 @@
     "metro-react-native-babel-preset": "^0.59.0",
     "react-test-renderer": "16.9.0"
   },
+  "keywords": [
+    "rn-movie-list",
+    "RNMovieList"
+  ],
   "jest": {
     "preset": "react-native"
   }
